@@ -1,2 +1,2 @@
 # myfile
-I love myself
+I love myself .
